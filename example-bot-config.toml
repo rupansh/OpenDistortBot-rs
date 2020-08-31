@@ -1,0 +1,4 @@
+# Example Bot Config
+api_token = "API_TOKEN"
+maxw = 512
+maxh = 512
